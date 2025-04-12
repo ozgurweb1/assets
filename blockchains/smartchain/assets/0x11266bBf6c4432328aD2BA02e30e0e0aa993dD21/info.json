@@ -1,0 +1,21 @@
+{
+    "name": "Green Alien",
+    "type": "BEP20",
+    "symbol": "GAlien",
+    "decimals": 18,
+    "website": "https://sites.google.com/view/galienmemecoin",
+    "description": "GAlien Meme Coin.",
+    "explorer": "https://bscscan.com/token/0x0000028a2eb8346cd5c0267856ab7594b7a55308",
+    "status": "active",
+    "id": "0x11266bBf6c4432328aD2BA02e30e0e0aa993dD21",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/Galiencoin"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/dexscan/bsc/0x3d1e0885fa127e1982e3f5f659b080c8bc3dc809/"
+        }
+    ]
+}
